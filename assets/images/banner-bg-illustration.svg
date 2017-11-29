@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="304px" height="134px" viewBox="0 0 304 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.000182446641 481.818294 0.000182446641 381.439482 224 0 224"></polygon>
+        <filter x="-4.4%" y="-4.9%" width="108.7%" height="119.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.02 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M453.5,77 L434,77 C432.067003,77 430.5,78.5670034 430.5,80.5 C430.5,82.4329966 432.067003,84 434,84 L453.5,84 C455.432997,84 457,82.4329966 457,80.5 C457,78.5670034 455.432997,77 453.5,77 Z" id="path-3"></path>
+        <filter x="-3.8%" y="-14.3%" width="115.1%" height="157.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.971402347   0 0 0 0 0.767897904   0 0 0 0 0.213806361  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="0.0-Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="D-0.0-Home" transform="translate(-245.000000, -1646.000000)">
+            <g id="banner-04" transform="translate(240.000000, 1641.000000)">
+                <g id="Bitmap" transform="translate(5.000000, 5.000000)">
+                    <g id="Group-3" transform="translate(-175.000000, -45.000000)">
+                        <g id="Mask">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#196134" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Line-5-Copy-7" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#196134" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
